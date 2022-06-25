@@ -17,6 +17,10 @@ function isPalindrome(word) {
 
 /*
   Add written explanation of your solution here
+  This palindrome solution has function that compares
+  the first letter from index[0] and returns true 
+  if the argument is a palindrome that is 
+  if it reads the same when reversed and vice versa.
 */
 
 // You can run `node index.js` to view these console logs
